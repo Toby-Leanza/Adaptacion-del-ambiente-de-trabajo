@@ -6,7 +6,25 @@ using System.Threading.Tasks;
 
 namespace AdministracionSanatorio
 {
-    class Paciente
+    public class Paciente
     {
+        public string DNI;
+        public string nombreYApellido;
+        public string telefono;
+        public string obraSocial;
+        public double porcentaje;
+        public List<Intervencion> intervencionesRealizadas = new List<Intervencion>();
+        
+
+        public Paciente(string DNI, string nombreYApellido, string telefono, string obraSocial, double porcentaje)
+        {
+            this.DNI = DNI;
+            this.nombreYApellido = nombreYApellido;
+            this.telefono = telefono;
+            this.obraSocial = obraSocial;
+            this.porcentaje = porcentaje;
+        }
+
+
     }
 }

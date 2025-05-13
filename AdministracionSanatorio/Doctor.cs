@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace AdministracionSanatorio
 {
-    class Doctor
+    public class Doctor
     {
+        public string nombreYApellido;
+        public string matrícula;
+        public string especialidad;
+        public bool disponibilidad;
+
+        public Doctor(string nombreYApellido, string matrícula, string especialidad, bool disponibilidad)
+        {
+            this.nombreYApellido = nombreYApellido;
+            this.matrícula = matrícula;
+            this.especialidad = especialidad;
+            this.disponibilidad = disponibilidad;
+        }
     }
 }
