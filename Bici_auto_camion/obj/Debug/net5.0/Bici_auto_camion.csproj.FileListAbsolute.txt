@@ -1,0 +1,32 @@
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\bin\Debug\net5.0\Bici_auto_camion.exe
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\bin\Debug\net5.0\Bici_auto_camion.deps.json
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\bin\Debug\net5.0\Bici_auto_camion.runtimeconfig.json
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\bin\Debug\net5.0\Bici_auto_camion.runtimeconfig.dev.json
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\bin\Debug\net5.0\Bici_auto_camion.dll
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\bin\Debug\net5.0\ref\Bici_auto_camion.dll
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\bin\Debug\net5.0\Bici_auto_camion.pdb
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.csproj.AssemblyReference.cache
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.AssemblyInfoInputs.cache
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.AssemblyInfo.cs
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.csproj.CoreCompileInputs.cache
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.dll
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\obj\Debug\net5.0\ref\Bici_auto_camion.dll
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.pdb
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.genruntimeconfig.cache
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.csproj.AssemblyReference.cache
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.AssemblyInfoInputs.cache
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.AssemblyInfo.cs
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.csproj.CoreCompileInputs.cache
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.dll
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.pdb
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\bin\Debug\net5.0\Bici_auto_camion.exe
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\bin\Debug\net5.0\Bici_auto_camion.deps.json
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\bin\Debug\net5.0\Bici_auto_camion.runtimeconfig.json
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\bin\Debug\net5.0\Bici_auto_camion.runtimeconfig.dev.json
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\bin\Debug\net5.0\Bici_auto_camion.dll
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\bin\Debug\net5.0\Bici_auto_camion.pdb
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\obj\Debug\net5.0\refint\Bici_auto_camion.dll
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\obj\Debug\net5.0\Bici_auto_camion.genruntimeconfig.cache
+C:\Users\leanz\OneDrive\Escritorio\Adaptacion-del-ambiente-de-trabajo-main\Bici_auto_camion\obj\Debug\net5.0\ref\Bici_auto_camion.dll
