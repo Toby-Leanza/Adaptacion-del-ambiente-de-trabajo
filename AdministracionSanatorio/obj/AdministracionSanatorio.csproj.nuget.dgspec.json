@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Punto Digital\\Documents\\GitHub\\AdministracionSanatorio\\AdministracionSanatorio\\AdministracionSanatorio.csproj": {}
+    "C:\\Users\\Punto Digital\\Documents\\GitHub\\Adaptacion-del-ambiente-de-trabajo\\AdministracionSanatorio\\AdministracionSanatorio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Punto Digital\\Documents\\GitHub\\AdministracionSanatorio\\AdministracionSanatorio\\AdministracionSanatorio.csproj": {
+    "C:\\Users\\Punto Digital\\Documents\\GitHub\\Adaptacion-del-ambiente-de-trabajo\\AdministracionSanatorio\\AdministracionSanatorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Punto Digital\\Documents\\GitHub\\AdministracionSanatorio\\AdministracionSanatorio\\AdministracionSanatorio.csproj",
+        "projectUniqueName": "C:\\Users\\Punto Digital\\Documents\\GitHub\\Adaptacion-del-ambiente-de-trabajo\\AdministracionSanatorio\\AdministracionSanatorio.csproj",
         "projectName": "AdministracionSanatorio",
-        "projectPath": "C:\\Users\\Punto Digital\\Documents\\GitHub\\AdministracionSanatorio\\AdministracionSanatorio\\AdministracionSanatorio.csproj",
+        "projectPath": "C:\\Users\\Punto Digital\\Documents\\GitHub\\Adaptacion-del-ambiente-de-trabajo\\AdministracionSanatorio\\AdministracionSanatorio.csproj",
         "packagesPath": "C:\\Users\\Punto Digital\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Punto Digital\\Documents\\GitHub\\AdministracionSanatorio\\AdministracionSanatorio\\obj\\",
+        "outputPath": "C:\\Users\\Punto Digital\\Documents\\GitHub\\Adaptacion-del-ambiente-de-trabajo\\AdministracionSanatorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Punto Digital\\AppData\\Roaming\\NuGet\\NuGet.Config",

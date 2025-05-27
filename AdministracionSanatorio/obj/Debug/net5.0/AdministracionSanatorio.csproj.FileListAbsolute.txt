@@ -1,0 +1,16 @@
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.exe
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.deps.json
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.runtimeconfig.json
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.runtimeconfig.dev.json
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.dll
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\bin\Debug\net5.0\ref\AdministracionSanatorio.dll
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.pdb
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.csproj.AssemblyReference.cache
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.AssemblyInfoInputs.cache
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.AssemblyInfo.cs
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.csproj.CoreCompileInputs.cache
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.dll
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\ref\AdministracionSanatorio.dll
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.pdb
+C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.genruntimeconfig.cache

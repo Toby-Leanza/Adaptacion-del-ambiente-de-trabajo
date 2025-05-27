@@ -28,4 +28,7 @@ namespace AdministracionSanatorio
 
         public AltaComplejidad(string codigo, string descripcion, string especialidad, double precio) : base(codigo, descripcion, especialidad, precio) { }
     }
+
+    
+
 }

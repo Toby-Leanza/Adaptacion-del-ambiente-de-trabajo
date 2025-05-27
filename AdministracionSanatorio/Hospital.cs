@@ -8,7 +8,6 @@ namespace AdministracionSanatorio
         public List<Doctor> Doctores { get; set; } = new List<Doctor>();
         public List<Paciente> Pacientes { get; set; } = new List<Paciente>();
         public List<Intervencion> Intervenciones { get; set; } = new List<Intervencion>();
-
         public Hospital()
         {
             // Doctores
@@ -41,6 +40,11 @@ namespace AdministracionSanatorio
             Intervenciones.Add(new AltaComplejidad("INT009", "Cirugía bariátrica", "Gastroenterología", 220000));
             Intervenciones.Add(new AltaComplejidad("INT010", "Craneotomía", "Neurología", 270000));
         }
-    }
+        public void AgregarPaciente(Paciente paciente)
+        {
+            Pacientes.Add(paciente);
+        }
 
+    }
 }
+

@@ -24,7 +24,18 @@ namespace AdministracionSanatorio
             this.obraSocial = obraSocial;
             this.porcentaje = porcentaje;
         }
+        
+        public void ListarPaciente() {
+            Console.WriteLine();
+            Console.WriteLine(DNI);
+            Console.WriteLine(nombreYApellido);
+            Console.WriteLine();
+        }
 
+        public void AsignarIntervencion(Intervencion intervencion)
+        {
+            intervencionesRealizadas.Add(intervencion);
+        }
 
     }
 }
