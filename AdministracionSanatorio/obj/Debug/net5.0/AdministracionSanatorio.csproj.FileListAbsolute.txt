@@ -14,3 +14,20 @@ C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\Admin
 C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\ref\AdministracionSanatorio.dll
 C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.pdb
 C:\Users\Punto Digital\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.genruntimeconfig.cache
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.exe
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.deps.json
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.runtimeconfig.json
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.runtimeconfig.dev.json
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.dll
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.pdb
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.csproj.AssemblyReference.cache
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.AssemblyInfoInputs.cache
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.AssemblyInfo.cs
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.csproj.CoreCompileInputs.cache
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.sourcelink.json
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.dll
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\refint\AdministracionSanatorio.dll
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.pdb
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.genruntimeconfig.cache
+C:\Users\leanz\OneDrive\Documents\GitHub\Adaptacion-del-ambiente-de-trabajo\AdministracionSanatorio\obj\Debug\net5.0\ref\AdministracionSanatorio.dll
