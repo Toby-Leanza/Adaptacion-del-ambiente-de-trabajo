@@ -29,6 +29,9 @@ namespace AdministracionSanatorio
             Console.WriteLine();
             Console.WriteLine(DNI);
             Console.WriteLine(nombreYApellido);
+            Console.WriteLine(telefono);
+            Console.WriteLine(obraSocial);
+            Console.WriteLine(porcentaje);
             Console.WriteLine();
         }
 
