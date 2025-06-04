@@ -8,26 +8,8 @@ namespace AdministracionSanatorio
         static void Main(string[] args)
         {
             Hospital hospital = new Hospital();
-
-            string opcion;
-            do
-            {
-                // Mostrar menú
-                Console.WriteLine("===== MENÚ PRINCIPAL =====");
-                Console.WriteLine("1. Agregar paciente");
-                Console.WriteLine("2. Listar pacientes");
-                Console.WriteLine("3. Asignar intervención");
-                Console.WriteLine("4. Calcular costo intervenciones para un paciente");
-                Console.WriteLine("5. Realizar reporte de liquidaciones pendientes de pago");
-                Console.WriteLine("0. Salir");
-                Console.WriteLine("==========================");
-                Console.Write("Seleccione una opción: ");
-                opcion = Console.ReadLine();
-
-                switch (opcion)
-                {
-                    case "1":
-                        Console.WriteLine("Opción 1 elegida");
+            void Caso1(){ // este void es para que se pueda repetir el caso 1 si no se encuentra el paciente o la intervención y ejecutarlo en el caso 1
+                Console.WriteLine("Opción 1 elegida");
                         Console.WriteLine();
                         Console.Write("Ingrese DNI del paciente: ");
                         string DNI = Console.ReadLine();
@@ -48,6 +30,27 @@ namespace AdministracionSanatorio
                         Paciente paciente = new Paciente(DNI, nameSurname, Telephone, socialSecurity, percent);
                         hospital.AgregarPaciente(paciente);
                         Console.WriteLine("Paciente agregado exitosamente.");
+            }
+            
+            string opcion;
+            do
+            {
+                // Mostrar menú
+                Console.WriteLine("===== MENÚ PRINCIPAL =====");
+                Console.WriteLine("1. Agregar paciente");
+                Console.WriteLine("2. Listar pacientes");
+                Console.WriteLine("3. Asignar intervención");
+                Console.WriteLine("4. Calcular costo intervenciones para un paciente");
+                Console.WriteLine("5. Realizar reporte de liquidaciones pendientes de pago");
+                Console.WriteLine("0. Salir");
+                Console.WriteLine("==========================");
+                Console.Write("Seleccione una opción: ");
+                opcion = Console.ReadLine();
+
+                switch (opcion)
+                {
+                    case "1":
+                        Caso1();
                         break;
 
                     case "2":
@@ -78,6 +81,8 @@ namespace AdministracionSanatorio
                         else
                         {
                             Console.WriteLine("Paciente o intervención no encontrados.");
+                            Console.WriteLine("Volviendo al registro de paciente...");
+                            Caso1();
                         }
                         break;
 
